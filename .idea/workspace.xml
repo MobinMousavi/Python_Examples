@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbaa490-7f84-40c1-bb38-3fa23b0de476" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MyMath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_Examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hello.py" afterDir="false" />
-    </list>
+    <list default="true" id="cdbaa490-7f84-40c1-bb38-3fa23b0de476" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +30,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ASUS/Documents/GitHub/Python_Examples",
+    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/PythonProjectSummer",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
